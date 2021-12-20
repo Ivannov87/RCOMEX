@@ -597,6 +597,12 @@ section {
   color: #d9232d;
   font-size: 40px;
 }
+.services .icon-box svg {
+  float: left;
+  color: #d9232d;
+  font-size: 40px;
+}
+
 .services .icon-box h4 {
   margin-left: 70px;
   font-weight: 700;
